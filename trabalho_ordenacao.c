@@ -49,18 +49,18 @@ int menuOrdenacao()
 				
 				break;
                 
-			case '3' : 			/*imprimir os dados CHAVE*/
+			case '3' : 			
 				
 				break;
                 
-			case '4' :			/*imprimir os dados NOME*/
+			case '4' :		
 				
 				break;
 			
-			case '5':			/*imprimir os dados cpf*/
+			case '5':			
 				
 			    break;
-			case '6':			/*Rmover*/
+			case '6':			
 				
 				
 			    break;
